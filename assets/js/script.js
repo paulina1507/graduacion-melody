@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   // WhatsApp link dinámico
-  const waNumber = "522461700983";
+  const waNumber = "527731022153";
   const waMessage =
     "¡Hola! Confirmo con mucho gusto mi asistencia a la graduación de Melody Viveros Ramos 🎓✨";
 
